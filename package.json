@@ -1,7 +1,7 @@
 {
   "name": "movie-app",
   "version": "0.1.0",
-  "homepage": "https://akmal-kamarudin.github.io/react-movie-appgit ",
+  "homepage": "https://akmal-kamarudin.github.io/react-movie-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
